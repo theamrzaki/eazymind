@@ -3,3 +3,5 @@ setup.cfg
 setup.py
 eazymind\__init__.py
 eazymind\test.py
+eazymind/nlp\__init__.py
+eazymind/nlp\eazysum.py
