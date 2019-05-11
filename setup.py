@@ -8,7 +8,7 @@ setup(
   author = 'amr zaki',                   # Type in your name
   author_email = 'theamrzaki@hotmail.com',      # Type in your E-Mail
   url = 'https://github.com/theamrzaki/eazymind',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/theamrzaki/eazymind/archive/v0.0.1.tar.gz',    # I explain this later on
   keywords = ['nlp', 'text', 'summarization' , 'ai' ,'natural language processing'],   # Keywords that define your package best
   install_requires=[],
   classifiers=[
