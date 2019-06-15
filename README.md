@@ -12,7 +12,7 @@
 -------------------------------------------------
 ## Usage :
 ```
-from nlp.eazysum import Summarizer
+from eazymind.nlp.eazysum import Summarizer
 
 #---key from eazymind website---
 key = "xxxxxxxxxxxxxxxxxxxxx"
